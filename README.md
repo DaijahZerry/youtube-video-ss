@@ -1,6 +1,6 @@
 # youtube-video-ss
 
-https://github.com/DaijahZerry/youtube-video-ss/blob/main/vid.png
+<img src="https://github.com/DaijahZerry/youtube-video-ss/blob/main/vid.png"/>
 
 ## **Are you tired of buffering and slow internet speeds while trying to watch your favorite YouTube videos? Do you want a simple and effective solution to download YouTube videos and watch them at your convenience? Look no further than Youtube Video Downloader!**
 
